@@ -55,7 +55,7 @@
     scale: 0.3,
     distance: '0px'
   }, 300);
-
+/*
   // Magnific popup calls
   $('.popup-gallery').magnificPopup({
     delegate: 'a',
@@ -71,5 +71,5 @@
       tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
     }
   });
-
+*/
 })(jQuery); // End of use strict
